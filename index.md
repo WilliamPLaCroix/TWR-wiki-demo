@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Those Who Rule community wiki built on wiki.gg.
