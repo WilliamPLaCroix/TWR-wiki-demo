@@ -4,7 +4,7 @@ Documentation of my contributions to the _Those Who Rule_ community wiki hosted 
 
 ## View Portfolio Site
 
-https://username.github.io/TWR-wiki-demo/
+https://williamplacroix.github.io/TWR-wiki-demo/
 
 ## Contents (TODO)
 
