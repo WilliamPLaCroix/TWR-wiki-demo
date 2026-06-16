@@ -1,0 +1,10 @@
+Copyright (c) 2026 William LaCroix. All rights reserved.
+
+The portfolio codebase and layout are proprietary. No permission is granted to replicate, distribute, or modify the content herein.
+
+STEAM GAME ARTWORK & CHARACTER NOTICE:
+All visual assets -- including screenshots, character designs, and art assets —- are the exclusive intellectual property of Eldin Turulja (eBrothers LLC 2026), creator of _Those Who Rule_.
+
+These assets are displayed in this portfolio strictly for demonstration purposes with explicit personal permission from the copyright owner. This permission is non-transferable. 
+
+Visitors to this repository DO NOT have permission to copy, download, redistribute, modify, or use these game assets for any purpose whatsoever.
